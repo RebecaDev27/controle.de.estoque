@@ -111,7 +111,7 @@ class Program
         Console.WriteLine("3 - Atualizar Produto");
         Console.WriteLine("4 - Deletar Produto");
         Console.WriteLine("5 - Buscar Produto");
-        Console.WriteLine("6 - Sair do Sistema");
+        Console.WriteLine("6 - Sair do Sistema.");
         Console.Write("Escolha uma opcao: ");
     }
 
